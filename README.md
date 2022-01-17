@@ -24,7 +24,7 @@ $ git clone https://github.com/Aryan-mfc/Crack
 $ cd Crack
 $ ls
 $ chmod +x *
-$ python2 Pro7.py
+$ python Pro7.py
 
  Tool Installation successful
 
